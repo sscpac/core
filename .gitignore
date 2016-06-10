@@ -4,6 +4,7 @@
 /config/config.php
 /config/*.config.php
 /config/mount.php
+!/config/appstore.config.php
 /apps/inc.php
 /assets
 
